@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Sahil",
+    "lastName": "Singh",
+    "email": "sahil@test.com",
+    "phone": "9876543210",
+    "dob": "15 May 1998",
+    "address": "Jaipur Rajasthan",
+    "state": "NCR",
+    "city": "Delhi"
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "email": "rahul@test.com",
+    "phone": "9123456789",
+    "dob": "10 Jun 1997",
+    "address": "Delhi India",
+    "state": "NCR",
+    "city": "Delhi"
+  }
+]
