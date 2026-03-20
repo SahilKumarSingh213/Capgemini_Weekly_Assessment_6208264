@@ -1,0 +1,19 @@
+{
+  "user": {
+    "username": "test",
+    "password": "test"
+  },
+  "new_user": {
+    "username": "sahil12345",
+    "password": "sahil"
+  },
+  "genre": {
+    "name": "Entrance Exam"
+  },
+  "book": {
+    "name": "The Indian Economy : For UPSC And State Civil Services Preliminary And Main Examinations"
+  },
+  "order": {
+    "quantity": "3"
+  }
+}
