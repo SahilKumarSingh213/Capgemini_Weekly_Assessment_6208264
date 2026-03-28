@@ -1,0 +1,57 @@
+{
+	"id": "5ef5248e-44c0-4fd4-8d43-f1b180d41aa7",
+	"values": [
+		{
+			"key": "Base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shopper_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "product id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "item id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "address id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "order id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "review id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Ecommerce_SS Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-03-28T07:48:47.647Z",
+	"_postman_exported_using": "Postman/12.3.6"
+}
